@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				C4D9281B2CB4D1B000AAD7E1 /* Deah */,
-				C4D928102CB4CD0200AAD7E1 /* Assets.xcassets */,
+                C4D928102CB4CD0200AAD7E1 /* Assets.xcassets */,
 				C4D928122CB4CD0200AAD7E1 /* Preview Content */,
 			);
 			path = "PBX-conflict-test";
@@ -73,7 +73,6 @@
 				C4D9280E2CB4CD0100AAD7E1 /* ContentView.swift */,
 			);
 			path = Deah;
-			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
