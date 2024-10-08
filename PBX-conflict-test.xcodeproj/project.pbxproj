@@ -51,14 +51,8 @@
 		C4D9280B2CB4CD0100AAD7E1 /* PBX-conflict-test */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
-				C4D9280C2CB4CD0100AAD7E1 /* PBX_conflict_testApp.swift */,
-				C4D9280E2CB4CD0100AAD7E1 /* ContentView.swift */,
-				C4D928102CB4CD0200AAD7E1 /* Assets.xcassets */,
-=======
 				C4D9281B2CB4D1B000AAD7E1 /* Deah */,
                 C4D928102CB4CD0200AAD7E1 /* Assets.xcassets */,
->>>>>>> main
 				C4D928122CB4CD0200AAD7E1 /* Preview Content */,
 			);
 			path = "PBX-conflict-test";
@@ -72,8 +66,6 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
-=======
 		C4D9281B2CB4D1B000AAD7E1 /* Deah */ = {
 			isa = PBXGroup;
 			children = (
@@ -82,7 +74,6 @@
 			);
 			path = Deah;
 		};
->>>>>>> main
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
