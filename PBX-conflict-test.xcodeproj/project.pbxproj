@@ -51,8 +51,7 @@
 		C4D9280B2CB4CD0100AAD7E1 /* PBX-conflict-test */ = {
 			isa = PBXGroup;
 			children = (
-				C4D9280C2CB4CD0100AAD7E1 /* PBX_conflict_testApp.swift */,
-				C4D9280E2CB4CD0100AAD7E1 /* ContentView.swift */,
+				C4D9281A2CB4D05800AAD7E1 /* JuneHee */,
 				C4D928102CB4CD0200AAD7E1 /* Assets.xcassets */,
 				C4D928122CB4CD0200AAD7E1 /* Preview Content */,
 			);
@@ -65,6 +64,15 @@
 				C4D928132CB4CD0200AAD7E1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C4D9281A2CB4D05800AAD7E1 /* JuneHee */ = {
+			isa = PBXGroup;
+			children = (
+				C4D9280C2CB4CD0100AAD7E1 /* PBX_conflict_testApp.swift */,
+				C4D9280E2CB4CD0100AAD7E1 /* ContentView.swift */,
+			);
+			path = JuneHee;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
